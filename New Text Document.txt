@@ -1,0 +1,3 @@
+d:\project\app\app\env\Scripts\activate
+
+python app.py
